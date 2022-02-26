@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "torrentPortrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Back for more are ya'?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep! (yea)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "torrentPortrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Glad to hear! Let's have one last game..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "torrentPortrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I think it's about time I give you a REAL challenge.."
+		}
+	]
+}

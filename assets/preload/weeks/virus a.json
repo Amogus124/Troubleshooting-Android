@@ -1,0 +1,49 @@
+{
+	"storyName": "Into the FUNKTRIX",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "torrent",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"torrent",
+			"icon-torrent",
+			[
+				100,
+				60,
+				0
+			]
+		],
+		[
+			"sensory-overload",
+			"icon-torrent",
+			[
+				100,
+				60,
+				0
+			]
+		],
+		[
+			"jailbreak",
+			"torrent",
+			[
+				100,
+				60,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Into the FUNKTRIX"
+}
